@@ -1,6 +1,9 @@
 <div align="center">
+  
 # Hey, I'm Chris 👋
+
 </div>
+
 I'm a junior developer who enjoys experimenting with different technologies and building my own ideas.  
 I'm currently studying to become a software developer, but I also like exploring other technologies outside my studies.
 
