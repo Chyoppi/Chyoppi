@@ -9,9 +9,10 @@ I'm currently studying to become a software developer, but I also like exploring
 
 ## 💻 Projects
 
-### ⌨️ TypeCombo
+### ⌨️ [TypeCombo](https://github.com/Chyoppi/TypeCombo)
+
 A typing game focused on improving typing speed and accuracy through gameplay.
-The game also includes a **Daily Challenge** feature that allows players to compete against others.
+The game also features a **Daily Challenge** mode where players can compete against others and compare their results.
 
 **Status:** Ongoing project
 
