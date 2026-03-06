@@ -1,7 +1,6 @@
 <div align="center">
-
 # Hey, I'm Chris 👋
-
+</div>
 I'm a junior developer who enjoys experimenting with different technologies and building my own ideas.  
 I'm currently studying to become a software developer, but I also like exploring other technologies outside my studies.
 
@@ -22,7 +21,7 @@ The game also features a **Daily Challenge** mode where players can compete agai
 
 ---
 
-### 📊 TypeCombo Analytics
+### 📊 [TypeCombo Analytics](https://github.com/Chyoppi/typecombo-analytics)
 A small analytics pipeline built around the TypeCombo project where I practiced working with modern data tools.
 
 **Stack includes:**
@@ -31,4 +30,3 @@ A small analytics pipeline built around the TypeCombo project where I practiced 
 - Airbyte
 
 The goal of this project was to experiment with building a simple analytics workflow and explore data transformation.
-</div>
